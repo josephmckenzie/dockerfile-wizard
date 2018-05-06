@@ -27,7 +27,7 @@ image_config: &image_config
 
   POSTGRES_CLIENT: true
 
-  BROWSERS: false
+  BROWSERS: true
 
 version: 2
 jobs:
