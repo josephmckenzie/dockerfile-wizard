@@ -21,13 +21,13 @@ image_config: &image_config
 
   PYTHON_VERSION_NUM: 2.7.16
 
-  JAVA: fals
+  JAVA: false
 
   MYSQL_CLIENT: false
 
-  POSTGRES_CLIENT: true
+  POSTGRES_CLIENT: false
 
-  BROWSERS: true
+  BROWSERS: false
 
 version: 2
 jobs:
